@@ -11,5 +11,22 @@ a {
 }
 
 p {
-    color: rgb(179, 143, 112);
+    color: rgb(95, 164, 179);
+}
+
+ul, li {
+    list-style: none;
+}
+
+body {
+    background: rgb(0, 0, 0);
+    color: rgb(255, 218, 185);
+}
+
+h2 {
+    color: rgb(95, 164, 179);
+}
+
+footer{
+    background: rgb(255, 218, 185);
 }

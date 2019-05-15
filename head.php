@@ -11,5 +11,6 @@
         <li><a href="index.php">Pääsivu</a></li>
         <li><a href="h1.php">Harjoitus 1</a></li>
         <li><a href="h2.php">Harjoitus 2</a></li>
+        <li><a href="h3.php">Harjoitus 3</a></li>
     </ul>
 </nav>
