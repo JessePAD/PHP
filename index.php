@@ -18,5 +18,5 @@ function tervehdys ($nimi, $ika){
         echo "Vastaus: ", tervehdys($nimi, $ika);
     }
 ?>
-
+<a class="twitter-timeline" href="https://twitter.com/treduofficial?ref_src=twsrc%5Etfw">Tweets by treduofficial</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <?php require "footer.php"; ?>

@@ -1,3 +1,5 @@
-<footer><p>Footer tässä</p></footer>
+<footer>
+<p>Footer tässä</p>
+</footer>
 </body>
 </html>
